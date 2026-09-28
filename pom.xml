@@ -20,7 +20,6 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>java-21-spring-boot-3-devops</name>
     <description>Java 26 Spring Boot DevOps Project</description>
-
     <!-- Java Version -->
     <properties>
         <java.version>21</java.version>
