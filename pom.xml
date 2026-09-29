@@ -48,7 +48,6 @@
             <version>1.4.0</version>
         </dependency>
 
-
         <!-- Swagger / OpenAPI -->
         <dependency>
             <groupId>org.springdoc</groupId>
